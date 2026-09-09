@@ -152,13 +152,13 @@ Um usuário poderá possuir várias tarefas cadastradas e configurações relaci
 
 | Data      | Atividade                                       | Responsável |
 | --------- | ----------------------------------------------- | ----------- |
-| PREENCHER | Revisão da descoberta, requisitos e solução     | Lucas       |
-| PREENCHER | Revisão da modelagem e dos diagramas            | Gustavo     |
-| PREENCHER | Criação e organização do repositório GitHub     | Nicolas     |
-| PREENCHER | Implementação das classes e conceitos de POO    | Todos       |
-| PREENCHER | Implementação do banco de dados e CRUD          | Todos       |
-| PREENCHER | Implementação dos comandos de voz planejados    | Todos       |
-| PREENCHER | Testes, correções e preparação da entrega final | Todos       |
+| 10/09/2026 | Revisão da descoberta, requisitos e solução     | Lucas       |
+| 11/09/2026 | Revisão da modelagem e dos diagramas            | Gustavo     |
+| 12/09/2026 | Criação e organização do repositório GitHub     | Nicolas     |
+| 18/09/2026 | Implementação das classes e conceitos de POO    | Todos       |
+| 25/09/2026 | Implementação do banco de dados e CRUD          | Todos       |
+| 02/10/2026 | Implementação dos comandos de voz planejados    | Todos       |
+| 13/10/2026 | Testes, correções e preparação da entrega final | Todos       |
 
 ## Integrantes
 
