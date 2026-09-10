@@ -146,19 +146,16 @@ Inicialmente, serão utilizadas as entidades:
 
 Um usuário poderá possuir várias tarefas cadastradas e configurações relacionadas à acessibilidade.
 
-## Cronograma
+## Planejamento do projeto
 
-> As datas abaixo devem ser preenchidas de acordo com o calendário e os prazos definidos para a turma, mantendo o mesmo cronograma apresentado no PDF da primeira entrega.
+Para organizar o desenvolvimento do sistema, dividimos as principais atividades entre os integrantes do grupo. O planejamento foi feito considerando o que será necessário para a próxima etapa do projeto.
 
-| Data      | Atividade                                       | Responsável |
-| --------- | ----------------------------------------------- | ----------- |
-| 10/09/2026 | Revisão da descoberta, requisitos e solução     | Lucas       |
-| 11/09/2026 | Revisão da modelagem e dos diagramas            | Gustavo     |
-| 12/09/2026 | Criação e organização do repositório GitHub     | Nicolas     |
-| 18/09/2026 | Implementação das classes e conceitos de POO    | Todos       |
-| 25/09/2026 | Implementação do banco de dados e CRUD          | Todos       |
-| 02/10/2026 | Implementação dos comandos de voz planejados    | Todos       |
-| 13/10/2026 | Testes, correções e preparação da entrega final | Todos       |
+| Período | Atividade | Responsável |
+| --- | --- | --- |
+| 15/08 a 27/08 | Organização das classes e estrutura inicial do projeto | Lucas |
+| 28/08 a 01/09 | Desenvolvimento do banco de dados e das funções de cadastro, consulta, alteração e exclusão | Nicolas |
+| 02/09 a 03/09 | Desenvolvimento dos comandos de voz | Gustavo |
+| 04/09 a 09/09 | Testes, correções e organização da entrega | Todos |
 
 ## Integrantes
 
@@ -174,4 +171,4 @@ Um usuário poderá possuir várias tarefas cadastradas e configurações relaci
 
 O projeto será armazenado em um repositório público no GitHub, contendo o código-fonte, a documentação, os diagramas e os arquivos relacionados ao banco de dados.
 
-**Link do repositório:** PREENCHER APÓS A CRIAÇÃO DO REPOSITÓRIO PÚBLICO
+**Link do repositório:** https://github.com/Gustavo-Marangoni/aep-acessibilidade-tarefas
