@@ -1,5 +1,0 @@
-# Copie este arquivo para db.properties e informe os dados da sua instalacao MySQL.
-# Use a porta configurada no MySQL Server (normalmente 3306; pode ser 3307).
-db.url=jdbc:mysql://localhost:3306/aep_tarefas?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=America/Sao_Paulo&characterEncoding=UTF-8
-db.usuario=root
-db.senha=COLOQUE_SUA_SENHA_AQUI
