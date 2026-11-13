@@ -1,3 +1,4 @@
+-- Revisado por Lucas Marinho ( Responsável pelo banco de dados )
 -- =====================================================================
 -- AEP - Acessibilidade para pessoas com ausência bilateral dos membros
 -- superiores | Script de criação do banco de dados (MySQL 8+)
