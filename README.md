@@ -322,4 +322,5 @@ Foram utilizadas ferramentas de apoio, incluindo inteligência artificial, para 
 
 ## Repositório
 
-**Link do repositório:** https://github.com/Gustavo-Marangoni/aep-acessibilidade-tarefas
+**Link do repositório:** https://github.com/Gustavo-Marangoni/aep-acessibilidade-tarefas.  
+
